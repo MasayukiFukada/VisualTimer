@@ -1,0 +1,11 @@
+{
+  "name": "visual_timer",
+  "version": "1.0.0",
+  "description": "visual timer.",
+  "main": "main.js",
+  "author": "m.fukada0813@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^7.1.2"
+  }
+}
