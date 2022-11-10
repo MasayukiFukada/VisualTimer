@@ -6,6 +6,6 @@
   "author": "m.fukada0813@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "electron": "^17.2.0"
+    "electron": "^18.3.7"
   }
 }
